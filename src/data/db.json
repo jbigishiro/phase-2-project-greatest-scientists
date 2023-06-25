@@ -1,0 +1,126 @@
+{
+    "scientists": [
+      {
+        "id": 1,
+        "name": "Archimedes",
+        "image": "https://www.famousscientists.org/fs/wp-content/uploads/2014/07/archimedes1.jpg",
+        "Description": "Archimedes was, arguably, the world’s greatest scientist – certainly the greatest scientist of the classical age.",
+        "year": " 287 BC",
+        "country": "Greek",
+        "field": "Physics",
+        "achievements": [" invented the sciences of mechanics and hydrostatics", "discovered the laws of levers and pulleys, which allow us to move heavy objects using small forces.", "invented one of the most fundamental concepts of physics – the center of gravity."]
+      },
+      {
+        "id": 2,
+        "name": "Daniel Bernoulli",
+        "image": "https://www.famousscientists.org/images1/daniel-bernoulli.jpg",
+        "Description": "Daniel Bernoulli published his masterpiece Hydrodynamica in 1738 only to see it plagiarized by his own jealous father.",
+        "year": " 1700",
+        "country": "Netherlands",
+        "field": "Mathematics",
+        "achievements": ["The Kinetic Theory of Gases", "The Bernoulli Effect", "Measurement of Risk"]
+      },
+      {
+        "id": 3,
+        "name": "Santiago Ramón y Cajal",
+        "image": "https://www.famousscientists.org/images1/daniel-bernoulli.jpg",
+        "Description": "Santiago Ramón y Cajal is often called the father of neuroscience",
+        "year": " 1852",
+        "country": "Spain",
+        "field": "Medicine",
+        "achievements": ["Golgi/’s Method and Nerve Cells / Neurons", "The Neuron Doctrine", "Photography"]
+      },
+      {
+        "id": 4,
+        "name": "Subrahmanyan Chandrasekhar",
+        "image": "https://www.famousscientists.org/images1/subrahmanyan-chandrasekhar.jpg",
+        "Description": "Subrahmanyan Chandrasekhar was an astrophysicist. He discovered that massive stars can collapse under their own gravity to reach enormous or even infinite densities. Today we call these collapsed stars neutron stars and black holes.",
+        "year": " 1910",
+        "country": "Pakistan",
+        "field": "Astronomy",
+        "achievements": ["The Chandrasekhar Limit and the Fate of Stars", "The Singularity", "Stars end up losing their balance"]
+      },
+      {
+        "id": 5,
+        "name": "Albert Einstein",
+        "image": "https://www.famousscientists.org/images1/albert-einstein.jpg",
+        "Description": "Albert Einstein rewrote the laws of nature. He completely changed the way we understand the behavior of things as basic as light, gravity, and time..",
+        "year": " 1879",
+        "country": "Germany",
+        "field": "Physics",
+        "achievements": ["Brownian motion", "the equivalence of mass and energy", "the photoelectric effect", "special relativity"]
+      },
+      {
+        "id": 6,
+        "name": "Benjamin Franklin",
+        "image": "https://www.famousscientists.org/images1/benjamin-franklin.jpg",
+        "Description": "Benjamin Franklin lived his life in the spirit of a renaissance man: he was deeply interested in the world around him, and he excelled in several widely differing fields of human endeavor.",
+        "year": " 1706",
+        "country": "USA",
+        "field": "Physics",
+        "achievements": ["Bifocal Spectacles", "The Franklin Stove", "The Lightning Rod"]
+      },
+      {
+        "id": 7,
+        "name": "Rosalind Franklin",
+        "image": "https://www.famousscientists.org/images1/rosalind-franklin.jpg",
+        "Description": "Rosalind Franklin’s X-ray work played a crucial role in the discovery of DNA’s structure.",
+        "year": " 1920",
+        "country": "United Kingdom",
+        "field": "Medicine",
+        "achievements": ["Tobacco Mosaic Virus", "Photo 51", "Major Progress: Two Types of DNA"]
+      },
+      {
+        "id": 8,
+        "name": "Galileo Galilei",
+        "image": "https://www.famousscientists.org/fs/wp-content/uploads/2014/08/galileo-galilean-satellites.jpg",
+        "Description": "Galileo Galilei, most people simply call him Galileo, was one of the most significant people in the history of science. He lived at a crucial crossroads in time, when different strands of thought met and clashed",
+        "year": " 1564",
+        "country": "Italy",
+        "field": "Physics",
+        "achievements": ["Tried to measure the speed of light, but found it was too fast for him to measure.", "Stated the principle of inertia", "Was the first person ever to see the planet Neptune"]
+      },
+      {
+        "id": 9,
+        "name": "William Harvey",
+        "image": "https://www.famousscientists.org/images1/william-harvey.jpg",
+        "Description": "William Harvey was the first person to correctly describe blood’s circulation in the body.",
+        "year": " 1578",
+        "country": "United Kingdom",
+        "field": "medicine",
+        "achievements": ["The Circulation of Blood", " Harvey donated money anonymously to allow the College of Physicians to build a new library."]
+      },
+      {
+        "id": 10,
+        "name": "Antoine Lavoisier",
+        "image": "https://www.famousscientists.org/images1/antoine-lavoisier-oh.png",
+        "Description": "Antoine Lavoisier revolutionized chemistry.",
+        "year": " 1743",
+        "country": "France",
+        "field": "Chemistry",
+        "achievements": ["Forms of Carbon", "Oxygen and Combustion", "The Metric System", "Water is not an element"]
+      },
+      {
+        "id": 11,
+        "name": "Gene Shoemaker",
+        "image": "https://www.famousscientists.org/fs/wp-content/uploads/2014/07/gene-shoemaker.jpg",
+        "Description": "Gene Shoemaker was an astrogeologist. In fact, he was the very first astrogeologist.",
+        "year": " 1928",
+        "country": "USA",
+        "field": "Astronomy",
+        "achievements": ["Discovery of Comet Shoemaker-Levy 9", "Practical Demonstrations of Comet Impacts", "Prediction of Life Arriving on Earth From Mars"]
+      },
+      
+      {
+        "id": 12,
+        "name": "B. F. Skinner",
+        "image": "https://www.famousscientists.org/images1/b-f-skinner.jpg",
+        "Description": "B.F. Skinner was the 20th century’s most influential psychologist, pioneering the science of behaviorism.",
+        "year": " 1904",
+        "country": "USA",
+        "field": "Psychology",
+        "achievements": ["The Skinner Box", "The Pigeon-Guided Missile", "Child Cruelty and Other Myths"]
+      }
+
+    ]
+  }
