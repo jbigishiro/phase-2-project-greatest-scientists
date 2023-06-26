@@ -4,11 +4,11 @@
         "id": 1,
         "name": "Archimedes",
         "image": "https://www.famousscientists.org/fs/wp-content/uploads/2014/07/archimedes1.jpg",
-        "Description": "Archimedes was, arguably, the world’s greatest scientist – certainly the greatest scientist of the classical age.",
+        "Description": "Archimedes was, arguably, the world's greatest scientist, certainly the greatest scientist of the classical age.",
         "year": " 287 BC",
         "country": "Greek",
         "field": "Physics",
-        "achievements": [" invented the sciences of mechanics and hydrostatics", "discovered the laws of levers and pulleys, which allow us to move heavy objects using small forces.", "invented one of the most fundamental concepts of physics – the center of gravity."]
+        "achievements": [" invented the sciences of mechanics and hydrostatics", "discovered the laws of levers and pulleys, which allow us to move heavy objects using small forces.", "invented one of the most fundamental concepts of physics, the center of gravity."]
       },
       {
         "id": 2,
@@ -28,7 +28,7 @@
         "year": " 1852",
         "country": "Spain",
         "field": "Medicine",
-        "achievements": ["Golgi/’s Method and Nerve Cells / Neurons", "The Neuron Doctrine", "Photography"]
+        "achievements": ["Golgi's Method and Nerve Cells / Neurons", "The Neuron Doctrine", "Photography"]
       },
       {
         "id": 4,
@@ -64,7 +64,7 @@
         "id": 7,
         "name": "Rosalind Franklin",
         "image": "https://www.famousscientists.org/images1/rosalind-franklin.jpg",
-        "Description": "Rosalind Franklin’s X-ray work played a crucial role in the discovery of DNA’s structure.",
+        "Description": "Rosalind Franklin's X-ray work played a crucial role in the discovery of DNA's structure.",
         "year": " 1920",
         "country": "United Kingdom",
         "field": "Medicine",
@@ -84,7 +84,7 @@
         "id": 9,
         "name": "William Harvey",
         "image": "https://www.famousscientists.org/images1/william-harvey.jpg",
-        "Description": "William Harvey was the first person to correctly describe blood’s circulation in the body.",
+        "Description": "William Harvey was the first person to correctly describe blood's circulation in the body.",
         "year": " 1578",
         "country": "United Kingdom",
         "field": "medicine",
@@ -115,7 +115,7 @@
         "id": 12,
         "name": "B. F. Skinner",
         "image": "https://www.famousscientists.org/images1/b-f-skinner.jpg",
-        "Description": "B.F. Skinner was the 20th century’s most influential psychologist, pioneering the science of behaviorism.",
+        "Description": "B.F. Skinner was the 20th century's most influential psychologist, pioneering the science of behaviorism.",
         "year": " 1904",
         "country": "USA",
         "field": "Psychology",
