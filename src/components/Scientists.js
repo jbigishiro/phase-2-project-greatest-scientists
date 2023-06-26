@@ -11,7 +11,7 @@ function Scientists() {
   const scientistList = people.map((person) => (
     <li key={person.id}>
       <h3>{person.name}</h3>
-      <img scr={person.image} alt={person.name} />
+      <img src={person.image} alt={person.name} />
     </li>
   ));
 

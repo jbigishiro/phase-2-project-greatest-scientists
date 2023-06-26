@@ -3,7 +3,7 @@
       {
         "id": 1,
         "name": "Archimedes",
-        "image": "https://www.famousscientists.org/fs/wp-content/uploads/2014/07/archimedes1.jpg",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Domenico-Fetti_Archimedes_1620.jpg/220px-Domenico-Fetti_Archimedes_1620.jpg",
         "Description": "Archimedes was, arguably, the world's greatest scientist, certainly the greatest scientist of the classical age.",
         "year": " 287 BC",
         "country": "Greek",
@@ -13,8 +13,7 @@
       {
         "id": 2,
         "name": "Daniel Bernoulli",
-        "image": "https://www.famousscientists.org/images1/daniel-bernoulli.jpg",
-        "Description": "Daniel Bernoulli published his masterpiece Hydrodynamica in 1738 only to see it plagiarized by his own jealous father.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Portr%C3%A4t_des_Daniel_Bernoulli_-_edit1.jpg/220px-Portr%C3%A4t_des_Daniel_Bernoulli_-_edit1.jpg",
         "year": " 1700",
         "country": "Netherlands",
         "field": "Mathematics",
@@ -23,7 +22,7 @@
       {
         "id": 3,
         "name": "Santiago Ramón y Cajal",
-        "image": "https://www.famousscientists.org/images1/daniel-bernoulli.jpg",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Cajal-Restored.jpg/220px-Cajal-Restored.jpg",
         "Description": "Santiago Ramón y Cajal is often called the father of neuroscience",
         "year": " 1852",
         "country": "Spain",
@@ -33,7 +32,7 @@
       {
         "id": 4,
         "name": "Subrahmanyan Chandrasekhar",
-        "image": "https://www.famousscientists.org/images1/subrahmanyan-chandrasekhar.jpg",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/67/Subrahmanyan_Chandrasekhar.gif",
         "Description": "Subrahmanyan Chandrasekhar was an astrophysicist. He discovered that massive stars can collapse under their own gravity to reach enormous or even infinite densities. Today we call these collapsed stars neutron stars and black holes.",
         "year": " 1910",
         "country": "Pakistan",
@@ -43,7 +42,7 @@
       {
         "id": 5,
         "name": "Albert Einstein",
-        "image": "https://www.famousscientists.org/images1/albert-einstein.jpg",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Albert_Einstein_Head.jpg/250px-Albert_Einstein_Head.jpg",
         "Description": "Albert Einstein rewrote the laws of nature. He completely changed the way we understand the behavior of things as basic as light, gravity, and time..",
         "year": " 1879",
         "country": "Germany",
@@ -53,7 +52,7 @@
       {
         "id": 6,
         "name": "Benjamin Franklin",
-        "image": "https://www.famousscientists.org/images1/benjamin-franklin.jpg",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Joseph_Siffrein_Duplessis_-_Benjamin_Franklin_-_Google_Art_Project.jpg/220px-Joseph_Siffrein_Duplessis_-_Benjamin_Franklin_-_Google_Art_Project.jpg",
         "Description": "Benjamin Franklin lived his life in the spirit of a renaissance man: he was deeply interested in the world around him, and he excelled in several widely differing fields of human endeavor.",
         "year": " 1706",
         "country": "USA",
@@ -63,7 +62,7 @@
       {
         "id": 7,
         "name": "Rosalind Franklin",
-        "image": "https://www.famousscientists.org/images1/rosalind-franklin.jpg",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Rosalind_Franklin_%281920-1958%29.jpg/220px-Rosalind_Franklin_%281920-1958%29.jpg",
         "Description": "Rosalind Franklin's X-ray work played a crucial role in the discovery of DNA's structure.",
         "year": " 1920",
         "country": "United Kingdom",
@@ -73,7 +72,7 @@
       {
         "id": 8,
         "name": "Galileo Galilei",
-        "image": "https://www.famousscientists.org/fs/wp-content/uploads/2014/08/galileo-galilean-satellites.jpg",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Galileo_Galilei_%281564-1642%29_RMG_BHC2700.tiff/lossy-page1-220px-Galileo_Galilei_%281564-1642%29_RMG_BHC2700.tiff.jpg",
         "Description": "Galileo Galilei, most people simply call him Galileo, was one of the most significant people in the history of science. He lived at a crucial crossroads in time, when different strands of thought met and clashed",
         "year": " 1564",
         "country": "Italy",
@@ -83,7 +82,7 @@
       {
         "id": 9,
         "name": "William Harvey",
-        "image": "https://www.famousscientists.org/images1/william-harvey.jpg",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/William_Harvey_2.jpg/220px-William_Harvey_2.jpg",
         "Description": "William Harvey was the first person to correctly describe blood's circulation in the body.",
         "year": " 1578",
         "country": "United Kingdom",
@@ -93,7 +92,7 @@
       {
         "id": 10,
         "name": "Antoine Lavoisier",
-        "image": "https://www.famousscientists.org/images1/antoine-lavoisier-oh.png",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/David_-_Portrait_of_Monsieur_Lavoisier_%28cropped%29.jpg/220px-David_-_Portrait_of_Monsieur_Lavoisier_%28cropped%29.jpg",
         "Description": "Antoine Lavoisier revolutionized chemistry.",
         "year": " 1743",
         "country": "France",
@@ -103,7 +102,7 @@
       {
         "id": 11,
         "name": "Gene Shoemaker",
-        "image": "https://www.famousscientists.org/fs/wp-content/uploads/2014/07/gene-shoemaker.jpg",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Eugene_Shoemaker.jpg/220px-Eugene_Shoemaker.jpg",
         "Description": "Gene Shoemaker was an astrogeologist. In fact, he was the very first astrogeologist.",
         "year": " 1928",
         "country": "USA",
@@ -114,7 +113,7 @@
       {
         "id": 12,
         "name": "B. F. Skinner",
-        "image": "https://www.famousscientists.org/images1/b-f-skinner.jpg",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/B.F._Skinner_at_Harvard_circa_1950_%28cropped%29.jpg/220px-B.F._Skinner_at_Harvard_circa_1950_%28cropped%29.jpg",
         "Description": "B.F. Skinner was the 20th century's most influential psychologist, pioneering the science of behaviorism.",
         "year": " 1904",
         "country": "USA",
