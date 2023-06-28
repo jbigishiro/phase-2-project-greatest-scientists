@@ -37,14 +37,14 @@ function NavBar() {
       </NavLink>
 
       <NavLink
-        to="/most_rated"
+        to="/high_rated"
         exact
         style={linkStyles}
         activeStyle={{
           background: "darkblue",
         }}
       >
-        Most Rated Scientists
+        High Rated Scientists
       </NavLink>
 
       <NavLink

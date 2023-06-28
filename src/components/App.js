@@ -3,7 +3,7 @@ import { Route, Switch } from "react-router-dom";
 import NavBar from "./NavBar";
 import Scientists from "./Scientists";
 import Favorites from "./Favorites";
-import MostRated from "./MostRated";
+import HighRated from "./HighRated";
 import Home from "./Home";
 import {Footer} from "./Footer"
 
@@ -24,8 +24,8 @@ function App() {
           <Scientists people={people} />
         </Route>
 
-        <Route exact path="/most_rated">
-          <MostRated />
+        <Route exact path="/high_rated">
+          <HighRated />
         </Route>
 
         <Route exact path="/favorite">
