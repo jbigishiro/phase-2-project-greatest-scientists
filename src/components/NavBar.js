@@ -37,26 +37,16 @@ function NavBar() {
       </NavLink>
 
       <NavLink
-        to="/high_rated"
+        to="/login"
         exact
         style={linkStyles}
         activeStyle={{
           background: "darkblue",
         }}
       >
-        High Rated Scientists
+        Login Page
       </NavLink>
 
-      <NavLink
-        to="/favorite"
-        exact
-        style={linkStyles}
-        activeStyle={{
-          background: "darkblue",
-        }}
-      >
-        My Favorite Scientists
-      </NavLink>
     </div>
   );
 }

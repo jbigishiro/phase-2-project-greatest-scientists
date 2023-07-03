@@ -2,8 +2,7 @@ import React, { useEffect, useState } from "react";
 import { Route, Switch } from "react-router-dom";
 import NavBar from "./NavBar";
 import Scientists from "./Scientists";
-import Favorites from "./Favorites";
-import HighRated from "./HighRated";
+import Login from "./Login";
 import Home from "./Home";
 import {Footer} from "./Footer"
 
@@ -24,12 +23,8 @@ function App() {
           <Scientists people={people} />
         </Route>
 
-        <Route exact path="/high_rated">
-          <HighRated />
-        </Route>
-
-        <Route exact path="/favorite">
-          <Favorites />
+        <Route exact path="/login">
+          <Login />
         </Route>
 
         <Route exact path="/">
