@@ -121,5 +121,10 @@
         "achievements": ["The Skinner Box", "The Pigeon-Guided Missile", "Child Cruelty and Other Myths"]
       }
 
-    ]
+    ],
+    "adminLogin": [
+      {
+        "username": "admin",
+        "password": "admin@1"
+      }]
   }
