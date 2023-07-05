@@ -4,7 +4,7 @@ import NavBar from "./NavBar";
 import Scientists from "./Scientists";
 import Login from "./Login";
 import Home from "./Home";
-import {Footer} from "./Footer"
+import Admin from "./Admin";
 
 function App() {
 
@@ -27,12 +27,15 @@ function App() {
           <Login />
         </Route>
 
+        <Route exact path="/admin">
+          <Admin />
+        </Route>
+
         <Route exact path="/">
           <Home  people={people} />
         </Route>
 
       </Switch>
-      <Footer/>
     </div>
   );
 }

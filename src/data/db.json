@@ -1,130 +1,118 @@
 {
-    "scientists": [
-      {
-        "id": 1,
-        "name": "Archimedes",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Domenico-Fetti_Archimedes_1620.jpg/220px-Domenico-Fetti_Archimedes_1620.jpg",
-        "Description": "Archimedes was, arguably, the world's greatest scientist, certainly the greatest scientist of the classical age.",
-        "year": "287 BC - 212 BC",
-        "country": "Greek",
-        "field": "Physics",
-        "achievements": [" invented the sciences of mechanics and hydrostatics", "discovered the laws of levers and pulleys, which allow us to move heavy objects using small forces.", "invented one of the most fundamental concepts of physics, the center of gravity."]
-      },
-      {
-        "id": 2,
-        "name": "Daniel Bernoulli",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Portr%C3%A4t_des_Daniel_Bernoulli_-_edit1.jpg/220px-Portr%C3%A4t_des_Daniel_Bernoulli_-_edit1.jpg",
-        "year": "1700 - 1782",
-        "country": "Netherlands",
-        "field": "Mathematics",
-        "achievements": ["The Kinetic Theory of Gases", "The Bernoulli Effect", "Measurement of Risk"]
-      },
-      {
-        "id": 3,
-        "name": "Santiago Ramón y Cajal",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Cajal-Restored.jpg/220px-Cajal-Restored.jpg",
-        "Description": "Santiago Ramón y Cajal is often called the father of neuroscience",
-        "year": "1852 - 1932",
-        "country": "Spain",
-        "field": "Medicine",
-        "achievements": ["Golgi's Method and Nerve Cells / Neurons", "The Neuron Doctrine", "Photography"]
-      },
-      {
-        "id": 4,
-        "name": "Subrahmanyan Chandrasekhar",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/6/67/Subrahmanyan_Chandrasekhar.gif",
-        "Description": "Subrahmanyan Chandrasekhar was an astrophysicist. He discovered that massive stars can collapse under their own gravity to reach enormous or even infinite densities. Today we call these collapsed stars neutron stars and black holes.",
-        "year": "1910 - 1995",
-        "country": "Pakistan",
-        "field": "Astronomy",
-        "achievements": ["The Chandrasekhar Limit and the Fate of Stars", "The Singularity", "Stars end up losing their balance"]
-      },
-      {
-        "id": 5,
-        "name": "Albert Einstein",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Albert_Einstein_Head.jpg/250px-Albert_Einstein_Head.jpg",
-        "Description": "Albert Einstein rewrote the laws of nature. He completely changed the way we understand the behavior of things as basic as light, gravity, and time..",
-        "year": "1879 - 1955",
-        "country": "Germany",
-        "field": "Physics",
-        "achievements": ["Brownian motion", "the equivalence of mass and energy", "the photoelectric effect", "special relativity"]
-      },
-      {
-        "id": 6,
-        "name": "Benjamin Franklin",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Joseph_Siffrein_Duplessis_-_Benjamin_Franklin_-_Google_Art_Project.jpg/220px-Joseph_Siffrein_Duplessis_-_Benjamin_Franklin_-_Google_Art_Project.jpg",
-        "Description": "Benjamin Franklin lived his life in the spirit of a renaissance man: he was deeply interested in the world around him, and he excelled in several widely differing fields of human endeavor.",
-        "year": "1706 - 1790",
-        "country": "USA",
-        "field": "Physics",
-        "achievements": ["Bifocal Spectacles", "The Franklin Stove", "The Lightning Rod"]
-      },
-      {
-        "id": 7,
-        "name": "Rosalind Franklin",
-        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Rosalind_Franklin_%281920-1958%29.jpg/220px-Rosalind_Franklin_%281920-1958%29.jpg",
-        "Description": "Rosalind Franklin's X-ray work played a crucial role in the discovery of DNA's structure.",
-        "year": "1920 - 1958",
-        "country": "United Kingdom",
-        "field": "Medicine",
-        "achievements": ["Tobacco Mosaic Virus", "Photo 51", "Major Progress: Two Types of DNA"]
-      },
-      {
-        "id": 8,
-        "name": "Galileo Galilei",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Galileo_Galilei_%281564-1642%29_RMG_BHC2700.tiff/lossy-page1-220px-Galileo_Galilei_%281564-1642%29_RMG_BHC2700.tiff.jpg",
-        "Description": "Galileo Galilei, most people simply call him Galileo, was one of the most significant people in the history of science. He lived at a crucial crossroads in time, when different strands of thought met and clashed",
-        "year": "1564 - 1642",
-        "country": "Italy",
-        "field": "Physics",
-        "achievements": ["Tried to measure the speed of light, but found it was too fast for him to measure.", "Stated the principle of inertia", "Was the first person ever to see the planet Neptune"]
-      },
-      {
-        "id": 9,
-        "name": "William Harvey",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/William_Harvey_2.jpg/220px-William_Harvey_2.jpg",
-        "Description": "William Harvey was the first person to correctly describe blood's circulation in the body.",
-        "year": "1578 - 1657",
-        "country": "United Kingdom",
-        "field": "Medicine",
-        "achievements": ["The Circulation of Blood", " Harvey donated money anonymously to allow the College of Physicians to build a new library."]
-      },
-      {
-        "id": 10,
-        "name": "Antoine Lavoisier",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/David_-_Portrait_of_Monsieur_Lavoisier_%28cropped%29.jpg/220px-David_-_Portrait_of_Monsieur_Lavoisier_%28cropped%29.jpg",
-        "Description": "Antoine Lavoisier revolutionized chemistry.",
-        "year": "1743 - 1794",
-        "country": "France",
-        "field": "Chemistry",
-        "achievements": ["Forms of Carbon", "Oxygen and Combustion", "The Metric System", "Water is not an element"]
-      },
-      {
-        "id": 11,
-        "name": "Gene Shoemaker",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Eugene_Shoemaker.jpg/220px-Eugene_Shoemaker.jpg",
-        "Description": "Gene Shoemaker was an astrogeologist. In fact, he was the very first astrogeologist.",
-        "year": "1928 - 1997",
-        "country": "USA",
-        "field": "Astronomy",
-        "achievements": ["Discovery of Comet Shoemaker-Levy 9", "Practical Demonstrations of Comet Impacts", "Prediction of Life Arriving on Earth From Mars"]
-      },
-      
-      {
-        "id": 12,
-        "name": "B. F. Skinner",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/B.F._Skinner_at_Harvard_circa_1950_%28cropped%29.jpg/220px-B.F._Skinner_at_Harvard_circa_1950_%28cropped%29.jpg",
-        "Description": "B.F. Skinner was the 20th century's most influential psychologist, pioneering the science of behaviorism.",
-        "year": "1904 - 1990",
-        "country": "USA",
-        "field": "Psychology",
-        "achievements": ["The Skinner Box", "The Pigeon-Guided Missile", "Child Cruelty and Other Myths"]
-      }
-
-    ],
-    "adminLogin": [
-      {
-        "username": "admin",
-        "password": "admin@1"
-      }]
-  }
+  "scientists": [
+    {
+      "id": 1,
+      "name": "Archimedes",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Domenico-Fetti_Archimedes_1620.jpg/220px-Domenico-Fetti_Archimedes_1620.jpg",
+      "description": "Archimedes was, arguably, the world's greatest scientist, certainly the greatest scientist of the classical age.",
+      "year": "287 BC - 212 BC",
+      "country": "Greek",
+      "field": "Physics"
+    },
+    {
+      "id": 2,
+      "name": "Daniel Bernoulli",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Portr%C3%A4t_des_Daniel_Bernoulli_-_edit1.jpg/220px-Portr%C3%A4t_des_Daniel_Bernoulli_-_edit1.jpg",
+     "description": "Bernoulli explained how the speed of a fluid affects its pressure: the Bernoulli Effect explains how an airplane’s wings generate lift. ",
+      "year": "1700 - 1782",
+      "country": "Netherlands",
+      "field": "Mathematics"
+    },
+    {
+      "id": 3,
+      "name": "Santiago Ramón y Cajal",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Cajal-Restored.jpg/220px-Cajal-Restored.jpg",
+      "description": "Santiago Ramón y Cajal is often called the father of neuroscience",
+      "year": "1852 - 1932",
+      "country": "Spain",
+      "field": "Medicine"
+    },
+    {
+      "id": 4,
+      "name": "Subrahmanyan Chandrasekhar",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/67/Subrahmanyan_Chandrasekhar.gif",
+      "description": "Subrahmanyan Chandrasekhar was an astrophysicist. He discovered that massive stars can collapse under their own gravity to reach enormous or even infinite densities. Today we call these collapsed stars neutron stars and black holes.",
+      "year": "1910 - 1995",
+      "country": "Pakistan",
+      "field": "Astronomy"
+    },
+    {
+      "id": 5,
+      "name": "Albert Einstein",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Albert_Einstein_Head.jpg/250px-Albert_Einstein_Head.jpg",
+      "description": "Albert Einstein rewrote the laws of nature. He completely changed the way we understand the behavior of things as basic as light, gravity, and time..",
+      "year": "1879 - 1955",
+      "country": "Germany",
+      "field": "Physics"
+    },
+    {
+      "id": 6,
+      "name": "Benjamin Franklin",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Joseph_Siffrein_Duplessis_-_Benjamin_Franklin_-_Google_Art_Project.jpg/220px-Joseph_Siffrein_Duplessis_-_Benjamin_Franklin_-_Google_Art_Project.jpg",
+      "description": "Benjamin Franklin lived his life in the spirit of a renaissance man: he was deeply interested in the world around him, and he excelled in several widely differing fields of human endeavor.",
+      "year": "1706 - 1790",
+      "country": "USA",
+      "field": "Physics"
+    },
+    {
+      "id": 7,
+      "name": "Rosalind Franklin",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Rosalind_Franklin_%281920-1958%29.jpg/220px-Rosalind_Franklin_%281920-1958%29.jpg",
+      "description": "Rosalind Franklin's X-ray work played a crucial role in the discovery of DNA's structure.",
+      "year": "1920 - 1958",
+      "country": "United Kingdom",
+      "field": "Medicine"
+    },
+    {
+      "id": 8,
+      "name": "Galileo Galilei",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Galileo_Galilei_%281564-1642%29_RMG_BHC2700.tiff/lossy-page1-220px-Galileo_Galilei_%281564-1642%29_RMG_BHC2700.tiff.jpg",
+      "description": "Galileo Galilei, most people simply call him Galileo, was one of the most significant people in the history of science. He lived at a crucial crossroads in time, when different strands of thought met and clashed",
+      "year": "1564 - 1642",
+      "country": "Italy",
+      "field": "Physics"
+    },
+    {
+      "id": 9,
+      "name": "William Harvey",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/William_Harvey_2.jpg/220px-William_Harvey_2.jpg",
+      "description": "William Harvey was the first person to correctly describe blood's circulation in the body.",
+      "year": "1578 - 1657",
+      "country": "United Kingdom",
+      "field": "Medicine"
+    },
+    {
+      "id": 10,
+      "name": "Antoine Lavoisier",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/David_-_Portrait_of_Monsieur_Lavoisier_%28cropped%29.jpg/220px-David_-_Portrait_of_Monsieur_Lavoisier_%28cropped%29.jpg",
+      "description": "Antoine Lavoisier revolutionized chemistry.",
+      "year": "1743 - 1794",
+      "country": "France",
+      "field": "Chemistry"
+    },
+    {
+      "id": 11,
+      "name": "Gene Shoemaker",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Eugene_Shoemaker.jpg/220px-Eugene_Shoemaker.jpg",
+      "description": "Gene Shoemaker was an astrogeologist. In fact, he was the very first astrogeologist.",
+      "year": "1928 - 1997",
+      "country": "USA",
+      "field": "Astronomy"
+    },
+    {
+      "id": 12,
+      "name": "B. F. Skinner",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/B.F._Skinner_at_Harvard_circa_1950_%28cropped%29.jpg/220px-B.F._Skinner_at_Harvard_circa_1950_%28cropped%29.jpg",
+      "description": "B.F. Skinner was the 20th century's most influential psychologist, pioneering the science of behaviorism.",
+      "year": "1904 - 1990",
+      "country": "USA",
+      "field": "Psychology"
+    }
+  ],
+  "adminLogin": [
+    {
+      "username": "admin",
+      "password": "admin@1"
+    }
+  ]
+}

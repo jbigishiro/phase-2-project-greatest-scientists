@@ -17,23 +17,15 @@ const Home = ({ people }) => {
   return (
     <div className="home">
       <h1> This is One of the Greatest Scientists </h1>
-      <h2>{randomScientist.name}</h2>
-      <h3> Lived {randomScientist.year}</h3>
+      <h2>{randomScientist.name}</h2>   
       <img  className="homeImage"   src={randomScientist.image} alt={randomScientist.name} />
+      <h3> Lived {randomScientist.year}</h3>
       <p>
         Country: <b>{randomScientist.country}</b>
       </p>
       <p>
         Field: <b>{randomScientist.field}</b>
       </p>
-      <div className="homeList">
-        <h4> Achievements</h4>
-        <ul>
-          {randomScientist.achievements.map((achievement) => (
-            <li key={achievement}>{achievement}</li>
-          ))}
-        </ul>
-      </div>
     </div>
   );
 };

@@ -13,7 +13,7 @@ function Scientists({ people }) {
   const scientistList = people.map((person) => (
     <li key={person.id}>
       <h3>
-        {person.name} ({person.year})
+        {person.name}
       </h3>
 
       <img src={person.image} alt={person.name} />
@@ -24,13 +24,11 @@ function Scientists({ people }) {
         </button>
         {showDetails[person.id]  && (
           <div>
+             <h3> Lived:{person.year}</h3>
             <h3>Field: {person.field}</h3>
-            <h3>Achievements</h3>
-            <ul style={{ backgroundColor: "white" }}>
-              {person.achievements.map((achievement) => (
-                <li key={achievement}>{achievement}</li>
-              ))}
-            </ul>
+            <h3>Country of Origin: {person.country}  </h3>
+            <p> <i><b>Description: </b></i> {person.description}  </p>
+            
           </div>
         )}
       </div>
