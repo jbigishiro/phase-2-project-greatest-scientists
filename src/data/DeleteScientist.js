@@ -48,7 +48,7 @@ const DeleteScientist = () => {
           <input type="text" value={searchTerm} onChange={handleSearchChange} />
         </label>
         <br />
-        <button type="submit">Search</button>
+        <button id="button" type="submit">Search</button>
       </form>
 
       {scientists.length > 0 ? (
@@ -57,7 +57,7 @@ const DeleteScientist = () => {
           {scientists.map((scientist) => (
             <div key={scientist.id}>
               <p>Name: {scientist.name}</p>
-              <button onClick={() => handleDeleteScientist(scientist.id)}>
+              <button id="deletebutton"  onClick={() => handleDeleteScientist(scientist.id)}>
                 Delete Scientist
               </button>
               <hr />

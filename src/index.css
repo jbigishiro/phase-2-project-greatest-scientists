@@ -85,8 +85,26 @@ html, body {
   width: 100px;
   height: 30px;
   border-radius: 5px;
-
 }
+
+#deletebutton {
+  color: whitesmoke;
+  background-color: rgb(237, 107, 117);
+  font-weight: bold;
+  width: 150px;
+  height: 30px;
+  border-radius: 5px;
+}
+
+#addbutton {
+  color: whitesmoke;
+  background-color: rgb(122, 237, 107);
+  font-weight: bold;
+  width: 150px;
+  height: 30px;
+  border-radius: 5px;
+}
+
 
 .loginForm {
   box-shadow: 4px 4px 8px 4px rgba(234, 35, 35, 0.452);
@@ -101,4 +119,12 @@ html, body {
   height: 30px;
   font-size: 20px;
   border-color: blue;
+}
+
+.admin {
+  background: rgb(247, 249, 250);
+ height: 700px;
+ width: max;
+ padding: 30px;
+ border-radius: 5px;
 }

@@ -98,8 +98,8 @@ const AddScientist = () => {
             onChange={(e) => setField(e.target.value)}
           />
         </label>
-        <br />
-        <button type="submit">Add Scientist</button>
+        <br /> <br/>
+        <button id="addbutton"  type="submit">Add Scientist</button>
       </form>
     </div>
   );

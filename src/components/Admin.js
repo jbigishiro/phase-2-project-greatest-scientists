@@ -4,8 +4,9 @@ import DeleteScientist from "../data/DeleteScientist";
 
 function Admin() {
   return (
-    <div>
+    <div  className="admin" >
       <DeleteScientist />
+      
       <AddScientist />
     </div>
   );
