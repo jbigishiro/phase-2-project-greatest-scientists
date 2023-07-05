@@ -52,7 +52,53 @@ html, body {
    background: rgb(185, 221, 240);
   height: 700px;
   width: max;
-  padding: 20px;
+  padding: 30px;
   border-radius: 5px;
-  text-align: center;
+}
+.scientists {
+  background: rgb(185, 221, 240);
+ width: max;
+ padding: 20px;
+ border-radius: 5px;
+ padding-left: 80px;
+}
+
+.cardScientist {
+  box-shadow: 2px 4px 8px 2px rgba(234, 35, 35, 0.452);
+  width: 50%;
+  border-radius: 5px;
+  padding: 40px;
+  
+}
+
+.ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 20px;
+
+}
+
+#button {
+  color: whitesmoke;
+  background-color: blue;
+  font-weight: bold;
+  width: 100px;
+  height: 30px;
+  border-radius: 5px;
+
+}
+
+.loginForm {
+  box-shadow: 4px 4px 8px 4px rgba(234, 35, 35, 0.452);
+  width: 250px;
+  border-radius: 5px;
+  padding: 20px;
+  font-size: 20px;
+  background: rgb(185, 240, 216);
+}
+.loginInput{
+  width: 200px;
+  height: 30px;
+  font-size: 20px;
+  border-color: blue;
 }

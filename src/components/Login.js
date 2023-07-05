@@ -49,10 +49,12 @@ export default function Login() {
   
   return (
     <div className="login">
-      <h2>User Login</h2>
+      <h2 >Admin Login</h2>
+
+      <div className="loginForm " >
       <p style={{ color: "red" }}>{errorMessage}</p>
       <form onSubmit={handleSubmit}>
-        <input
+        <input className="loginInput"
           type="text"
           placeholder="Enter username"
           value={username}
@@ -60,19 +62,20 @@ export default function Login() {
           onChange={(e) => setUsername(e.target.value)}
           required
         />
-        <br />
+        <br />  <br />
 
-        <input
+        <input className="loginInput"
           type="password"
           placeholder="Enter password"
           value={password}
           onChange={(e) => setPassword(e.target.value)}
           required
         />
-        <br />
+        <br />  <br />
 
-        <button type="submit">Login</button>
+        <button id="button"  type="submit">Login</button>
       </form>
+      </div>
     </div>
   );
 }

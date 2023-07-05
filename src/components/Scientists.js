@@ -11,7 +11,7 @@ function Scientists({ people }) {
   };
 
   const scientistList = people.map((person) => (
-    <li key={person.id}>
+    <li className="cardScientist" key={person.id}>
       <h3>
         {person.name}
       </h3>
@@ -19,7 +19,7 @@ function Scientists({ people }) {
       <img src={person.image} alt={person.name} />
 
       <div>
-        <button onClick={()=> handleToggle(person.id)}>
+        <button  id="button" onClick={()=> handleToggle(person.id)}>
           {showDetails[person.id] ? "Hide Details" : "Show Details"}
         </button>
         {showDetails[person.id]  && (
@@ -36,9 +36,9 @@ function Scientists({ people }) {
   ));
 
   return (
-    <div>
+    <div className="scientists" >
       <h2>Scientists</h2>
-      <ul>{scientistList} </ul>
+      <ul className="ul" >{scientistList} </ul>
     </div>
   );
 }
