@@ -45,11 +45,7 @@ const DeleteScientist = () => {
       <form onSubmit={handleSearchScientist}>
         <label>
           Search by Name:
-          <input
-            type="text"
-            value={searchTerm}
-            onChange={handleSearchChange}
-          />
+          <input type="text" value={searchTerm} onChange={handleSearchChange} />
         </label>
         <br />
         <button type="submit">Search</button>

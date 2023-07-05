@@ -14,8 +14,12 @@ const AddScientist = () => {
 
     try {
       const newScientist = {
-        name, image, description, year, country,field
-    
+        name,
+        image,
+        description,
+        year,
+        country,
+        field,
       };
 
       const response = await axios.post(
