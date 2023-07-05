@@ -48,7 +48,7 @@ export default function Login() {
   };
   
   return (
-    <div>
+    <div className="login">
       <h2>User Login</h2>
       <p style={{ color: "red" }}>{errorMessage}</p>
       <form onSubmit={handleSubmit}>
