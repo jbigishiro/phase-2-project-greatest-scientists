@@ -22,11 +22,11 @@ export default function Login() {
         if (isValid) {
           history.push("/admin");
         } else {
-          setErrorMessage("Invalid username or password");
+          setErrorMessage("Wrong username or password");
         }
       })
       .catch((error) => {
-        setErrorMessage("Invalid username or password");
+        setErrorMessage("Wrong username or password");
       });
   };
 

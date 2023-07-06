@@ -5,9 +5,11 @@ import DeleteScientist from "../data/DeleteScientist";
 function Admin() {
   return (
     <div  className="admin" >
+ <AddScientist />
+
       <DeleteScientist />
       
-      <AddScientist />
+     
     </div>
   );
 }
